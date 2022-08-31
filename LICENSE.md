@@ -1,39 +1,33 @@
 # License
+
 The prose, course text, slide layouts, class outlines, diagrams, HTML, CSS, and Markdown code in the set of educational materials located in this repository are licensed as _CC BY 3.0_. The Octocat, GitHub logo and other already-copyrighted and already-reserved trademarks and images are not covered by this license.
 
 ------------------------
 
-# Attribution 3.0 Unported (CC BY 3.0)
+## Attribution 3.0 Unported (CC BY 3.0)
+
 This is a [human-readable summary](http://creativecommons.org/licenses/by/3.0/deed.en_US) of the [Legal Code (the full license)](http://creativecommons.org/licenses/by/3.0/legalcode).
 
-
-## You are free:
+## You are free
 
 * to Share — to copy, distribute and transmit the work
 * to Remix — to adapt the work
-to make commercial use of the work
+* to make commercial use of the work
 
-
-## Under the following conditions:
+## Under the following conditions
 
 * Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
 
-## With the understanding that:
+## With the understanding that
 
 * Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
 * Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
 * Other Rights — In no way are any of the following rights affected by the license:
-    * Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
-    * The author's moral rights;
-    * Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+  * Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+  * The author's moral rights;
+  * Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
 Notice — For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
-
---------------------------------
-
-# Attribution 3.0 Unported (CC BY 3.0)
-
-http://creativecommons.org/licenses/by/3.0/legalcode
 
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
 
@@ -100,4 +94,4 @@ Creative Commons Notice
 Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the Work. Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
 Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of this License.
 
-Creative Commons may be contacted at http://creativecommons.org/.
+Creative Commons may be contacted at <http://creativecommons.org/>.

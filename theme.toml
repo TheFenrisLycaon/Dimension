@@ -8,9 +8,5 @@ features = ["blog", "syntax highlighting"]
 min_version = 0.54
 
 [author]
-  name = "d-asnaghi"
-  homepage = "https://d-asnaghi.github.io"
-
-[original]
-    author = "HTML5UP"
-    homepage = "https://html5up.net"
+  name = "Fenris Lycaon"
+  homepage = "https://thefenrislycaon.github.io"

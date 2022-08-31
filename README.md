@@ -22,14 +22,14 @@ You can download the theme manually by going to [https://github.com/your-identit
 
 You can also clone it directly to your Hugo folder:
 
-```
-$ git clone https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
+```bash
+git clone https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
 ```
 
 If you don't want to make any radical changes, it's the best option, because you can get new updates when they are available. You can also include it as a git submodule:
 
-```
-$ git submodule add https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
+```bash
+git submodule add https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
 ```
 
 ## How to configure
@@ -49,7 +49,7 @@ to `config.toml` file in your Hugo root directory and change params fields.
 
 ## Post archetype
 
-See the basic `_index.md` file params supported by the theme — https://github.com/your-identity/hugo-theme-dimension/blob/master/archetypes/_index.md
+See the basic `_index.md` file params supported by the theme — <https://github.com/your-identity/hugo-theme-dimension/blob/master/archetypes/_index.md>
 
 ```toml
 title: Your Name
@@ -60,10 +60,11 @@ logo: "<path or link to image>"
 
 ### `background` and `logo` Params
 
-As indicated above, `background` and `logo` can be an image of your choice by placing JPGs, PNGs, SVGs, etc. in the `static` directory of your repository. If the `static` directory does not yet exist, create it. 
+As indicated above, `background` and `logo` can be an image of your choice by placing JPGs, PNGs, SVGs, etc. in the `static` directory of your repository. If the `static` directory does not yet exist, create it.
 
 Given the following repo structure:
-```
+
+```txt
   .
   ├── config.toml
   ├── content
@@ -73,13 +74,14 @@ Given the following repo structure:
   │   └── elements.md
   ├── static
   │   └── images
-  │       ├── custom_bg.jpg  
+  │       ├── custom_bg.jpg
   │       └── custom_logo.svg
   └── archetypes
       └── default.md
 ```
 
 `static/images/custom_bg.jpg` can be referenced in `content/_index.md` as:
+
 ```yaml
   ---
   title: Your Name
@@ -90,6 +92,7 @@ Given the following repo structure:
 ```
 
 ...or in `content/posts/_index.md` as:
+
 ```yaml
   ---
   title: Posts
@@ -100,6 +103,7 @@ Given the following repo structure:
 ```
 
 Both fields may also be a URL to an online asset, such as:
+
 ```yaml
   ---
   title: Posts
@@ -112,8 +116,8 @@ Both fields may also be a URL to an online asset, such as:
 
 From your Hugo root directory run:
 
-```
-$ hugo server -t dimension
+```bash
+hugo server -t dimension
 ```
 
 and go to `localhost:1313` in your browser. From now on all the changes you make will go live, so you don't need to refresh your browser every single time.
@@ -121,13 +125,6 @@ and go to `localhost:1313` in your browser. From now on all the changes you make
 ## How to contribute
 
 If you spot any bugs, please use [Issue Tracker](https://github.com/your-identity/hugo-theme-dimension/issues) or if you want to add a new feature directly please create a new [Pull Request](https://github.com/your-identity/hugo-theme-dimension/pulls).
-
-## Sponsoring
-
-If you like my work and want to support the development of the project, now you can! Just:
-
-<a href="https://www.buymeacoffee.com/dasnaghi" target="_blank"><img src="https://res.cloudinary.com/panr/image/upload/v1579374705/buymeacoffee_y6yvov.svg" alt="Buy Me A Coffee" ></a>
-
 
 ## License
 
