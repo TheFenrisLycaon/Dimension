@@ -2,7 +2,7 @@
 
 A hugo port of HTML5UP's responsive and minimal dimension theme. With native support for Netlify's headless CMS.
 
-![Dimension](https://github.com/your-identity/hugo-theme-dimension/blob/master/images/screenshot.png?raw=1)
+![Dimension](https://github.com/TheFenrisLycaon/Dimension/blob/master/images/screenshot.png?raw=1)
 
 ---
 
@@ -18,18 +18,18 @@ A hugo port of HTML5UP's responsive and minimal dimension theme. With native sup
 
 ## How to start
 
-You can download the theme manually by going to [https://github.com/your-identity/hugo-theme-dimension.git](https://github.com/your-identity/hugo-theme-dimension.git) and pasting it to `themes/dimension` in your root directory.
+You can download the theme manually by going to [https://github.com/TheFenrisLycaon/Dimension.git](https://github.com/TheFenrisLycaon/Dimension.git) and pasting it to `themes/dimension` in your root directory.
 
 You can also clone it directly to your Hugo folder:
 
 ```bash
-git clone https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
+git clone https://github.com/TheFenrisLycaon/Dimension.git themes/dimension
 ```
 
 If you don't want to make any radical changes, it's the best option, because you can get new updates when they are available. You can also include it as a git submodule:
 
 ```bash
-git submodule add https://github.com/your-identity/hugo-theme-dimension.git themes/dimension
+git submodule add https://github.com/TheFenrisLycaon/Dimension.git themes/dimension
 ```
 
 ## How to configure
@@ -49,7 +49,7 @@ to `config.toml` file in your Hugo root directory and change params fields.
 
 ## Post archetype
 
-See the basic `_index.md` file params supported by the theme — <https://github.com/your-identity/hugo-theme-dimension/blob/master/archetypes/_index.md>
+See the basic `_index.md` file params supported by the theme — <https://github.com/TheFenrisLycaon/Dimension/blob/master/archetypes/_index.md>
 
 ```toml
 title: Your Name
@@ -124,10 +124,4 @@ and go to `localhost:1313` in your browser. From now on all the changes you make
 
 ## How to contribute
 
-If you spot any bugs, please use [Issue Tracker](https://github.com/your-identity/hugo-theme-dimension/issues) or if you want to add a new feature directly please create a new [Pull Request](https://github.com/your-identity/hugo-theme-dimension/pulls).
-
-## License
-
-Copyright © 2020 Davide Asnaghi
-
-The theme is released under the CC BY 3.0 License. Check the [original theme license](https://github.com/your-identity/hugo-theme-dimension/blob/master/LICENSE.md) for additional licensing information.
+If you spot any bugs, please use [Issue Tracker](https://github.com/TheFenrisLycaon/Dimension/issues) or if you want to add a new feature directly please create a new [Pull Request](https://github.com/TheFenrisLycaon/Dimension/pulls).
