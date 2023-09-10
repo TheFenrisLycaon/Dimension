@@ -2,7 +2,7 @@
 
 A hugo port of HTML5UP's responsive and minimal dimension theme. With native support for Netlify's headless CMS.
 
-![Dimension](https://github.com/TheFenrisLycaon/Dimension/blob/master/images/screenshot.png?raw=1)
+![Dimension](https://github.com/TheFenrisLycaon/Dimension/blob/master/images/screenshot.png)
 
 ---
 
