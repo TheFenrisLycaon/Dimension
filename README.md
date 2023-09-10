@@ -2,7 +2,7 @@
 
 A hugo port of HTML5UP's responsive and minimal dimension theme. With native support for Netlify's headless CMS.
 
-![Dimension](https://github.com/TheFenrisLycaon/Dimension/blob/master/images/screenshot.png?raw=1)
+![Dimension](https://github.com/TheFenrisLycaon/Dimension/blob/main/images/screenshot.png?raw=1)
 
 ---
 
@@ -49,7 +49,7 @@ to `config.toml` file in your Hugo root directory and change params fields.
 
 ## Post archetype
 
-See the basic `_index.md` file params supported by the theme — <https://github.com/TheFenrisLycaon/Dimension/blob/master/archetypes/_index.md>
+See the basic `_index.md` file params supported by the theme — <https://github.com/TheFenrisLycaon/Dimension/blob/main/archetypes/_index.md>
 
 ```toml
 title: Your Name

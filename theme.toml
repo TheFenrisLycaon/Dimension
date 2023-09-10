@@ -1,5 +1,4 @@
 name = "Dimension"
-licenselink = "https://creativecommons.org/licenses/by/3.0/"
 description = "A port of HTML5UP's dimension theme, optimized for markdown based CMS."
 homepage = "https://github.com/TheFenrisLycaon/dimension/"
 tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "personal", "responsive", "simple"]
